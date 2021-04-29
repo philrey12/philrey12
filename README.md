@@ -1,5 +1,6 @@
-# <p align="center">Hi, Philip Rey Raquinel</p>
+# <p align="center">Hi, Philip Rey Raquinel
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Web+and+Software+Developer;Designer;Gamer)](https://git.io/typing-svg)
+</p>
 
 <!--
 **philrey12/philrey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
