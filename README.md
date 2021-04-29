@@ -1,5 +1,5 @@
 ## Welcome to Philip Rey Raquinel's profile! <img src="waving-hand.gif" width="28"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5AC18E&lines=Software+Engineer;Designer;and+a+Gamer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0099CC&lines=Software+Engineer;Designer;and+Gamer!)](https://git.io/typing-svg)
 
 <!--
 **philrey12/philrey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
