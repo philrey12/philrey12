@@ -1,4 +1,4 @@
-## Hello and welcome to Philip Rey Raquinel's profile! ![](waving-hand.gif)
+## Hello and welcome to Philip Rey Raquinel's profile! <img src="waving-hand.gif" width="32"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+and+Software+Developer;Designer;Gamer;Always+learning)](https://git.io/typing-svg)
 
 <!--
