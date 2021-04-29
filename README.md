@@ -1,5 +1,4 @@
-## Hello and welcome!\
-## I'm Philip Rey Raquinel
+## Hello and welcome! I'm Philip Rey Raquinel
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+and+Software+Developer;Designer;Gamer;Always+learning)](https://git.io/typing-svg)
 
 <!--
