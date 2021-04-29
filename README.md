@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi, Philip Rey Raquinel</h1>
-</p>
+<p align="center">Hi, Philip Rey Raquinel</p>
 
 <!--
 **philrey12/philrey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
