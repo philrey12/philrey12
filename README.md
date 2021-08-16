@@ -1,6 +1,7 @@
 ## Hi, I'm Philip!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0099CC&lines=Software+Developer;Graphic+Designer;Gamer)](https://git.io/typing-svg)
-### <img src="https://i.imgur.com/IkdLIvu.gif" width="400"/>
+##### Here's Pusheen git pushin'...
+<img src="https://i.imgur.com/IkdLIvu.gif" width="400"/>
 
 <!--
 **philrey12/philrey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
