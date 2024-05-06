@@ -1,5 +1,5 @@
 ## Hi, I'm Philip!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0099CC&lines=Software+Engineer;Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0099CC&lines=Software+Engineer;Graphic+Designer;Lifelong+Learner)](https://git.io/typing-svg)
 ##### Here's Pusheen git pushin'...
 <img src="https://i.imgur.com/IkdLIvu.gif" width="400"/>
 
